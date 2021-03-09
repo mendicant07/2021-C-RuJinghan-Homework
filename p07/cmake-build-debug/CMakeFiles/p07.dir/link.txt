@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\p07.dir/objects.a
+E:\BaiduNetdiskDownload\mingw-w64\mingw-w64_64bit\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\p07.dir/objects.a @CMakeFiles\p07.dir\objects1.rsp
+E:\BaiduNetdiskDownload\mingw-w64\mingw-w64_64bit\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\p07.dir/objects.a -Wl,--no-whole-archive  -o p07.exe -Wl,--out-implib,libp07.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\p07.dir\linklibs.rsp
